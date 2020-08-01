@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cra13-comments-add-dimension/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/cra13-comments-add-dimension/static/js/main.c0671576.chunk.js",
+    "main.js.map": "/cra13-comments-add-dimension/static/js/main.c0671576.chunk.js.map",
+    "runtime-main.js": "/cra13-comments-add-dimension/static/js/runtime-main.bcb7a938.js",
+    "runtime-main.js.map": "/cra13-comments-add-dimension/static/js/runtime-main.bcb7a938.js.map",
+    "static/js/2.198e134a.chunk.js": "/cra13-comments-add-dimension/static/js/2.198e134a.chunk.js",
+    "static/js/2.198e134a.chunk.js.map": "/cra13-comments-add-dimension/static/js/2.198e134a.chunk.js.map",
+    "index.html": "/cra13-comments-add-dimension/index.html",
+    "precache-manifest.fee9bf86ff68cde4f4c5c03bbf9e1a1b.js": "/cra13-comments-add-dimension/precache-manifest.fee9bf86ff68cde4f4c5c03bbf9e1a1b.js",
+    "service-worker.js": "/cra13-comments-add-dimension/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/cra13-comments-add-dimension/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.198e134a.chunk.js.LICENSE.txt": "/cra13-comments-add-dimension/static/js/2.198e134a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcb7a938.js",
+    "static/js/2.198e134a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c0671576.chunk.js"
+  ]
+}
